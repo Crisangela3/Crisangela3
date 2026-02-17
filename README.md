@@ -40,25 +40,3 @@
 | **Linguagem Base** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
-
-## 🎨 Personalização Ciano
-Esta animação foi customizada para destacar as contribuições com:
-* **Cobra:** Ciano Elétrico Puro (`#00FFFF`).
-* **Fundo:** Modo Escuro (`Dark`).
-* **Blocos:** Escala de Ciano profundo para o mais brilhante.
-
-> **Nota:** Certifique-se de que sua Action no GitHub está salvando o arquivo com o nome `github-contribution-grid-snake-dark.svg` para que o fundo preto funcione corretamente.
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
