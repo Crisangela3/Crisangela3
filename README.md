@@ -32,11 +32,3 @@
 
 ---
 
-### 🛠️ Status do Sistema
-| Recurso | Status |
-| :--- | :--- |
-| **Action de Geração** | [![Action Status](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/SEU_REPOSITORIO/main.yml?label=Ativa&style=flat-square)](#) |
-| **Estética Visual** | ![Ciano](https://img.shields.io/badge/Tema-Ciano%20%26%20Preto-00FFFF?style=flat-square&logo=github-actions&logoColor=black) |
-| **Linguagem Base** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-
----
