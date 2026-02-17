@@ -27,7 +27,7 @@
 # 🐍 Contribuições em Movimento
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300FFFF&color_dots=%23161b22%2C%23008080%2C%2300ced1%2C%2300ffff%2C%23e0ffff" alt="Snake Game Ciano" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%2300FFFF&color_dots=%23161b22%2C%23004d4d%2C%23009999%2C%2300e6e6%2C%2300ffff" alt="Snake Game Ciano" />
 </div>
 
 ---
@@ -36,19 +36,18 @@
 | Recurso | Status |
 | :--- | :--- |
 | **Action de Geração** | [![Action Status](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/SEU_REPOSITORIO/main.yml?label=Ativa&style=flat-square)](#) |
-| **Estilo Visual** | ![Ciano](https://img.shields.io/badge/Tema-Ciano%20%26%20Black-00FFFF?style=flat-square&logo=probot&logoColor=black) |
-| **Linguagem** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Estética Visual** | ![Ciano](https://img.shields.io/badge/Tema-Ciano%20%26%20Preto-00FFFF?style=flat-square&logo=github-actions&logoColor=black) |
+| **Linguagem Base** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
-## 🎨 Como isso funciona?
-Este jogo da cobrinha "come" os quadrados de contribuição do meu perfil. Note que a versão acima está configurada para o **Modo Escuro**:
-* **Fundo:** Preto Profundo.
-* **Cobra:** Ciano Elétrico (`#00FFFF`).
-* **Quadrados:** Gradiente de tons Ciano e Aqua.
+## 🎨 Personalização Ciano
+Esta animação foi customizada para destacar as contribuições com:
+* **Cobra:** Ciano Elétrico Puro (`#00FFFF`).
+* **Fundo:** Modo Escuro (`Dark`).
+* **Blocos:** Escala de Ciano profundo para o mais brilhante.
 
-> **Dica para a Cria do Papel:** Se o seu GitHub estiver no modo claro, o fundo preto da imagem criará um contraste de destaque incrível no seu perfil!
-
+> **Nota:** Certifique-se de que sua Action no GitHub está salvando o arquivo com o nome `github-contribution-grid-snake-dark.svg` para que o fundo preto funcione corretamente.
 
 <picture>
   <source
