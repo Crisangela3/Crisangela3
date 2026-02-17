@@ -27,7 +27,7 @@
 # 🐍 Contribuições em Movimento
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300FFFF&color_dots=%23161b22%2C%23008080%2C%2300ced1%2C%2300ffff%2C%23e0ffff" alt="Snake Game Ciano" />
 </div>
 
 ---
@@ -36,13 +36,18 @@
 | Recurso | Status |
 | :--- | :--- |
 | **Action de Geração** | [![Action Status](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/SEU_REPOSITORIO/main.yml?label=Ativa&style=flat-square)](#) |
-| **Linguagem Base** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **Estética** | ![Prettier](https://img.shields.io/badge/Styled_with-Prettier-ff69b4?style=flat-square&logo=prettier) |
+| **Estilo Visual** | ![Ciano](https://img.shields.io/badge/Tema-Ciano%20%26%20Black-00FFFF?style=flat-square&logo=probot&logoColor=black) |
+| **Linguagem** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
 ## 🎨 Como isso funciona?
-Este jogo da cobrinha "come" os quadrados de contribuição do meu perfil, transformando o histórico de commits em uma animação divertida. 
+Este jogo da cobrinha "come" os quadrados de contribuição do meu perfil. Note que a versão acima está configurada para o **Modo Escuro**:
+* **Fundo:** Preto Profundo.
+* **Cobra:** Ciano Elétrico (`#00FFFF`).
+* **Quadrados:** Gradiente de tons Ciano e Aqua.
+
+> **Dica para a Cria do Papel:** Se o seu GitHub estiver no modo claro, o fundo preto da imagem criará um contraste de destaque incrível no seu perfil!
 
 
 <picture>
